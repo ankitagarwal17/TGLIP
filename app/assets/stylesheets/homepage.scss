@@ -1,0 +1,43 @@
+.tglip-top-header {
+  margin: 15px;
+  height: 100%;
+  background-color: #7D3E63;
+  .logo {
+    height: 12vh;
+    margin: 3vh 0 3vh 0;
+    img {
+      height: 100%;
+      width: 100%;
+      object-fit: contain;
+    }
+  }
+  .header-heading {
+    color: #DFC787;
+    text-align: center;
+  }
+}
+.tglip-home {
+  .tglip-tree-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 7vh 0 7vh 0;
+    .tree-content {
+      margin-left: 20px;
+    }
+  }
+  .tglip-powered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .tglip-powered-image {
+      height: 8vh;
+      img {
+        height: 100%;
+        width: 1005;
+        object-fit: contain;
+      }
+    }
+  }
+}
