@@ -1,0 +1,12 @@
+.inaugrate-campaign{
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .inaugrate-msg {
+    p {
+      font-size: 30px;
+    }
+  }
+}
