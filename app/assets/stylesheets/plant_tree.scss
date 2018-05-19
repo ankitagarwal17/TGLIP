@@ -5,8 +5,14 @@
   align-items: center;
   justify-content: center;
   .inaugrate-msg {
+    text-align: center;
     p {
       font-size: 30px;
+    }
+  }
+  .person-details {
+    .submit {
+      width: 100%;
     }
   }
 }
